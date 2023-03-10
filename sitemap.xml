@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://a2source.github.io/A2site/</loc>
+    </url>
+    <url>
+        <loc>https://a2source.github.io/A2site/blog/</loc>
+    </url>
+    <url>
+        <loc>https://a2source.github.io/A2site/blog/first/</loc>
+        <lastmod>2023-02-20</lastmod>
+    </url>
+    <url>
+        <loc>https://a2source.github.io/A2site/blog/second/</loc>
+        <lastmod>2023-02-20</lastmod>
+    </url>
+    <url>
+        <loc>https://a2source.github.io/A2site/download/</loc>
+    </url>
+    <url>
+        <loc>https://a2source.github.io/A2site/download/remixed/</loc>
+    </url>
+    <url>
+        <loc>https://a2source.github.io/A2site/download/test/</loc>
+    </url>
+</urlset>
